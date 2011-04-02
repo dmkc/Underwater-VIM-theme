@@ -30,7 +30,7 @@ hi Cursor 		guifg=NONE    guibg=#55A096 gui=none
 hi Normal 		guifg=#dfeff6 guibg=#102235 gui=none
  " e.g. tildes at the end of file
 hi NonText 		guifg=#96defa guibg=#122538 gui=none
-hi LineNr 		guifg=#2F577C guibg=#0C1926 gui=none
+hi LineNr 		guifg=#1A3752 guibg=#102235 gui=none
 hi StatusLine 	guifg=#96defa guibg=#0C1926 gui=italic
 hi StatusLineNC guifg=#68CEE8 guibg=#0C1926 gui=none
 hi VertSplit 	guifg=#1A3951 guibg=#1A3951 gui=none
@@ -61,5 +61,4 @@ hi Keyword		guifg=#8ac6f2 gui=none
 hi PreProc 		guifg=#EF6145 gui=none
 hi Number		guifg=#96defa gui=none
 hi Special		guifg=#3e71a1 gui=none
-
 
